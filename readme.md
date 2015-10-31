@@ -1,4 +1,4 @@
-# LCJVM
+# Jersey REST over WebSocket
 
 Jersey REST over WebSocket
 
